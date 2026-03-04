@@ -132,6 +132,7 @@ In Power BI, these were expanded into a dimensional model with the following tab
 | Postal Code | TEXT | Customer postal code |
 | City | TEXT | City |
 | State | TEXT | State / Province |
+| Region | TEXT | Sales region |
 | Country | TEXT | Country |
 
 </details>
