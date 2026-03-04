@@ -208,7 +208,7 @@ The final version uses a dark theme with gold/teal highlights for high contrast 
 
 #### 1️⃣ Overview Page
 
-![Overview Dashboard](screenshots/overview.png)
+<img width="1831" height="833" alt="Screenshot 2026-03-03 220416" src="https://github.com/user-attachments/assets/7b0a184f-5d8b-48ec-b629-ffd3d99ca3a7" />
 
 📌 **Analysis:**
 
@@ -222,7 +222,7 @@ The final version uses a dark theme with gold/teal highlights for high contrast 
 
 #### 2️⃣ Market Page
 
-![Market Dashboard](screenshots/market.png)
+<img width="1834" height="829" alt="Screenshot 2026-03-03 220425" src="https://github.com/user-attachments/assets/3c060f93-95a2-4ee4-b2a7-d23c797484f2" />
 
 📌 **Analysis:**
 
@@ -238,7 +238,7 @@ The final version uses a dark theme with gold/teal highlights for high contrast 
 
 #### 3️⃣ Product Page
 
-![Product Dashboard](screenshots/product.png)
+<img width="1825" height="836" alt="Screenshot 2026-03-03 220432" src="https://github.com/user-attachments/assets/1802e884-f91e-49e8-b379-2f25fbe8be96" />
 
 📌 **Analysis:**
 
@@ -254,7 +254,7 @@ The final version uses a dark theme with gold/teal highlights for high contrast 
 
 #### 4️⃣ Report Page
 
-![Report Dashboard](screenshots/report.png)
+<img width="1827" height="833" alt="Screenshot 2026-03-03 220440" src="https://github.com/user-attachments/assets/3a73bdfc-b7db-4652-aff8-fd4d7c58d5ac" />
 
 📌 **Analysis:**
 
